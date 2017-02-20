@@ -1,0 +1,19 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2015
+Project("{058E15FC-1078-751C-6AD4-BDC2B7C10D52}") = "AudioParameter", "AudioParameter.vcxproj", "{022369EA-EF0E-08A9-612A-DD6AA1993C0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{022369EA-EF0E-08A9-612A-DD6AA1993C0E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{022369EA-EF0E-08A9-612A-DD6AA1993C0E}.Debug|Win32.Build.0 = Debug|Win32
+		{022369EA-EF0E-08A9-612A-DD6AA1993C0E}.Release|Win32.ActiveCfg = Release|Win32
+		{022369EA-EF0E-08A9-612A-DD6AA1993C0E}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
